@@ -8,7 +8,7 @@ This repository contains the files and documentation for the "Business Sales Das
 ---
 
 ## 📝 Task Description
-The goal was to analyze e-commerce data to identify best-selling products, sales trends, and high-revenue categories using Power BI.
+The goal was to analyze e-commerce data to identify best-selling products among the fashion industry, sales trends, and high-revenue categories using Power BI.
 
 * **Skills Gained:** Data cleaning, DAX, trend analysis, business storytelling.
 * **Deliverable:** An interactive dashboard with visuals and insights for business decisions.
@@ -23,16 +23,19 @@ The goal was to analyze e-commerce data to identify best-selling products, sales
 
 ## 📈 Dashboard & Key Insights
 
-Here are a few snapshots of the final dashboard.
 
-*(Tip: Upload screenshots of your dashboard and add them here!)*
 
 ### Key Findings:
-* **Top Product:** The "SuperPhone X" was the best-selling product, generating $1.2M in revenue.
-* **Sales Trend:** Sales peaked in November and December, aligning with the holiday shopping season.
-* **Top Category:** The "Electronics" category accounts for 45% of all revenue.
 
----
+Performing Category:
+ Set clothing dominates overall sales, contributing the largest share across all categories ,showing strong customer demand in fashion industry.
+Regional Performance:
+  At 13,995.81, KARNATAKA had the highest Total Sales (New) and was 2,607.12% higher than HIMACHAL PRADESH, which had the lowest Total Sales (New) at 517.  KARNATAKA accounted for 13.32% of Total Sales (New).      Across all 25 ship-state, Total Sales (New) ranged from 517 to 13,995.81.     
+Category Insights:
+ While Sales leads in revenue, Western & ethnic dress show consistent growth potential across multiple regions.
+Profit Trends:
+ Profit margins vary significantly .High sales don’t always equal high profit, suggesting opportunities to optimize pricing or reduce shipping costs.
+
 
 ## 📂 How to View
 1.  Download the `.pbix` file from this repository.
